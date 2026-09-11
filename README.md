@@ -7,8 +7,9 @@ I am a Computer Science and Engineering graduate specializing in Data Science wi
 Let’s connect and grow together. I am always open to connecting, learning from others, and exploring new opportunities.
 
 ## 🌐 Socials:
-[![LinkedIn](...)](linkedin.com/in/syedzia22uk)
-[![Email](...)](mailto:syedzia9573@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](
+linkedin.com/in/syedzia22uk)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedzia9573@gmail.com)
 
 ## 💻 Tech Stack:
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -23,5 +24,3 @@ Let’s connect and grow together. I am always open to connecting, learning from
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syed-Ziauddin&show_icons=true&theme=dark)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Syed-Ziauddin)](https://git.io/streak-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Ziauddin&layout=compact&theme=dark)
