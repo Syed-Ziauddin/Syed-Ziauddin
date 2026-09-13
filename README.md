@@ -6,7 +6,7 @@ I am a Computer Science and Engineering graduate specializing in Data Science wi
 Let’s connect and grow together. I am always open to connecting, learning from others, and exploring new opportunities.
 
 ## 🌐 Socials:
-[LinkedIn](https://www.linkedin.com/in/syedzia22uk/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedzia22uk/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedzia9573@gmail.com)
 
 ## 💻 Tech Stack:
