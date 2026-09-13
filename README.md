@@ -21,4 +21,21 @@ linkedin.com/in/syedzia22uk)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Syed-Ziauddin&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Ziauddin&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Syed-Ziauddin&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🛠️ Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Ziauddin&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
